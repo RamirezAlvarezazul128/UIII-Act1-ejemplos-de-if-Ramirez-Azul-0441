@@ -1,2 +1,2 @@
 # UIII-Act1-ejemplos-de-if-Ramirez-Azul-0441
-aqui se guardan los documentos relacionados  a la actividad1 ejemplos de if 
+creando ejemplos de if, if else,if elif utilizando los operadores,aritmeticos,logicos,relacionaless para crear varios ejemplos de aplicacion
